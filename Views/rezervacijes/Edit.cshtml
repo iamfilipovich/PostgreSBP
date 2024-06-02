@@ -1,0 +1,49 @@
+﻿@model PostgreHotel.Data.rezervacije
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>rezervacije</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="rezervacijaid" />
+            <div class="form-group">
+                <label asp-for="gostid" class="control-label"></label>
+                <input asp-for="gostid" class="form-control" />
+                <span asp-validation-for="gostid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sobaid" class="control-label"></label>
+                <input asp-for="sobaid" class="form-control" />
+                <span asp-validation-for="sobaid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="datumdolaska" class="control-label"></label>
+                <input asp-for="datumdolaska" class="form-control" />
+                <span asp-validation-for="datumdolaska" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="datumodlaska" class="control-label"></label>
+                <input asp-for="datumodlaska" class="form-control" />
+                <span asp-validation-for="datumodlaska" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

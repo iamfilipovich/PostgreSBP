@@ -1,0 +1,53 @@
+﻿@model IEnumerable<PostgreHotel.Data.rezervacije>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.gostid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sobaid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.datumdolaska)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.datumodlaska)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.gostid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sobaid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.datumdolaska)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.datumodlaska)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.rezervacijaid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.rezervacijaid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.rezervacijaid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,42 @@
+﻿@model PostgreHotel.Data.rezervacije
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>rezervacije</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.gostid)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.gostid)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.sobaid)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.sobaid)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.datumdolaska)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.datumdolaska)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.datumodlaska)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.datumodlaska)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.rezervacijaid">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

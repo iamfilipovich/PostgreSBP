@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PostgreHotel
+build_property.RootNamespace = PostgreHotel
+build_property.ProjectDir = C:\Users\iamfi\source\repos\iamfilipovich\PostgreHotel\PostgreHotel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\iamfi\source\repos\iamfilipovich\PostgreHotel\PostgreHotel
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/gostis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ29zdGlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/gostis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ29zdGlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/gostis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ29zdGlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/gostis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ29zdGlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/gostis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ29zdGlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/hotels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/hotels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/hotels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/hotels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/hotels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/rezervacijes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmV6ZXJ2YWNpamVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/rezervacijes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmV6ZXJ2YWNpamVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/rezervacijes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmV6ZXJ2YWNpamVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/rezervacijes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmV6ZXJ2YWNpamVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/rezervacijes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmV6ZXJ2YWNpamVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/sobes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29iZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/sobes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29iZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/sobes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29iZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/sobes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29iZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/sobes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc29iZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/uslugas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNsdWdhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/uslugas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNsdWdhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/uslugas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNsdWdhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/uslugas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNsdWdhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/uslugas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNsdWdhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/zaposlenicis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcemFwb3NsZW5pY2lzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/zaposlenicis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcemFwb3NsZW5pY2lzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/zaposlenicis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcemFwb3NsZW5pY2lzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/zaposlenicis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcemFwb3NsZW5pY2lzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/zaposlenicis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcemFwb3NsZW5pY2lzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/iamfi/source/repos/iamfilipovich/PostgreHotel/PostgreHotel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4jazzh384s

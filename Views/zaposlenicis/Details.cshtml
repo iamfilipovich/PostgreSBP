@@ -1,0 +1,48 @@
+﻿@model PostgreHotel.Data.zaposlenici
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>zaposlenici</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.prezime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.prezime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.poziija)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.poziija)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.placa)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.placa)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.hotelid)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.hotelid)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.zaposlenikid">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
